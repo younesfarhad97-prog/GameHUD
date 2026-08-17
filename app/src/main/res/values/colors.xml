@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_green">#7CFC5A</color>
+    <color name="temp_yellow">#FFD166</color>
+    <color name="temp_red">#FF6B5E</color>
+    <color name="text_dim">#8CEAEAEA</color>
+    <color name="bg_dark">#0A0A0A</color>
+</resources>
